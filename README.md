@@ -1,6 +1,6 @@
 # Insurance Claims Risk Analysis
 
-Python analysis of a medical insurance dataset (1,338 records) exploring key risk factors — smoking status, age, and BMI — that drive up claim costs.
+Python analysis of a medical insurance dataset (1,338 records) exploring key risk factors - smoking status, age, and BMI - that drive up claim costs.
 
 ## Tools
 Python, pandas, matplotlib (via Google Colab)
