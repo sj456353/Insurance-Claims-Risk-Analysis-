@@ -5,6 +5,9 @@ Python analysis of a medical insurance dataset (1,338 records) exploring key ris
 ## Tools
 Python, pandas, matplotlib (via Google Colab)
 
+## Data
+Medical Cost Personal Dataset (Kaggle) - 1,338 records covering age, sex, BMI, children, smoking status, region, and charges.
+
 ## Key Findings
 - Smokers pay 3.8x more on average than non-smokers (£32,050 vs £8,434)
 - Charges rise with age within both groups, but the smoker/non-smoker gap persists at every age
