@@ -9,8 +9,8 @@ Python, pandas, matplotlib (via Google Colab)
 Medical Cost Personal Dataset (Kaggle) - 1,338 records covering age, sex, BMI, children, smoking status, region, and charges.
 
 ## Key Findings
-- Smokers pay 3.8x more on average than non-smokers (£32,050 vs £8,434)
+- Smokers pay 3.8x more on average than non-smokers ($32,050 vs $8,434)
 - Charges rise with age within both groups, but the smoker/non-smoker gap persists at every age
-- Among smokers, obesity nearly doubles average charges (£41,693 vs £21,369) - smoking and BMI compound each other
+- Among smokers, obesity nearly doubles average charges ($41,693 vs $21,369) - smoking and BMI compound each other
 
 See the full analysis and code in [Insurance_risk_analysis.ipynb](Insurance_risk_analysis.ipynb)
